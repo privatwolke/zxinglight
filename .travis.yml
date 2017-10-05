@@ -5,6 +5,7 @@ python:
   - '3.4'
   - '3.5'
   - '3.6'
+  - 'pypy3'
 install:
   - wget -q https://codeload.github.com/glassechidna/zxing-cpp/tar.gz/master -O master.tar.gz
   - tar xzf master.tar.gz
